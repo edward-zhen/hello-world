@@ -1,5 +1,8 @@
 # hello-world
-it is just a functional test and exercise for GitHub.
+it is just a test and exercise for GitHub.
+
+Useful elements as following:
+
 Hi Humans,
 
 Hubot here, I like Node.js and Coffescript (That's what I made off).
